@@ -1,7 +1,7 @@
 # Conversation-Facts
 An NLP research project that aimed to connect summary sentences to where they reference a document.
 
-This project was for my senior capstone class during my time at VT. It was a way to help a graduate student further his research in NLP to achieve the goal mentioned above. I worked with two other people: Nathan Miller (natem8) and Jon Marks (jdm2980). There is a Docker file found in the repo if you would like to run the code in a container or you may do this to access the Docker container:
+This project was for my senior capstone class during my time at VT. It was a way to help a graduate student further his research in NLP to achieve the goal mentioned above. I worked with two other people: Nathan Miller (natem8) and Jon Marks (jdm2980). There is a Docker file found in the repo if you would like to run the get the code from here to run in a container or you may do this to access the Docker container:
 
 1.  Download Docker for your system
 2.  Once downloaded and installed, run: docker run -it -p 5000:5000 cjk6/cs4624:conversationfacts /bin/bash
